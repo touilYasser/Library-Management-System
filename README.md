@@ -1,9 +1,12 @@
 Application web de re servation de livres dans une bibliotheque par les etudiants.
+
 Groupe : Salwa Errhout, Maroua Dahhou et Yasser Touil.
+
 Description générale:
-Description générale
 L'application de gestion des réservations de livres sera développée dans le but de simplifier et d'automatiser le processus de réservation pour les étudiants et les bibliothécaires. Cette application, basée sur le Framework Django, permettra aux étudiants de consulter 
 les livres disponibles, d'effectuer des réservations, et de suivre l'état de leurs emprunts. Parallèlement, elle offre aux bibliothécaires un tableau de bord complet pour gérer les livres et les réservations et surveiller les retours.
+
+
 Cahier des Charges
 Système de Gestion de Bibliothèque
 1. Introduction
